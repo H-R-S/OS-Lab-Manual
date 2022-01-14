@@ -7,8 +7,8 @@ Write Linux bash Shell Script, which will ask and display all information requir
 ![Lab_01 Code SS 1](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Code/ss1.JPG)
 ![Lab_01 Code SS 2](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Code/ss2.JPG)
 ### Code Output ScreenShot:
-![Lab_01 Output SS 1](https://github.com/H-R-S/OS-Lab-Manual/tree/main/Lab_01/ScreenShots/Output/ss1.JPG)
-![Lab_01 Output SS 2](https://github.com/H-R-S/OS-Lab-Manual/tree/main/Lab_01/ScreenShots/Output/ss2.JPG)
+![Lab_01 Output SS 1](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Output/ss1.JPG)
+![Lab_01 Output SS 2](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Output/ss2.JPG)
 ___
 ## Lab: 02
 ![Lab_02 Question SS](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/ScreenShots/Question/ss1.JPG)
