@@ -1,4 +1,5 @@
-## Lab: 04
+# Operating System Lab Manual | Lab_04 (Solved)
+## [Lab: 04](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_04/Lab_04.md)
 Task: 
 1.	Sort integer Array in ascending order.
 2.	Find shortest value in integer array.
