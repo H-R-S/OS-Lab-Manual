@@ -1,6 +1,6 @@
 # Operating System Lab Manual Solved
 Word File : [OS_Lab_Manul.doxs](https://github.com/matiassingers/awesome-readme)
-## [Lab: 01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Lab_01.md)
+## [Lab: 01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/Lab_01.md)
 Task: 
 Write Linux bash Shell Script, which will ask and display all information required to Student admission in Engineering and Sciences University.
 ### Code ScreenShot:
@@ -10,13 +10,13 @@ Write Linux bash Shell Script, which will ask and display all information requir
 ![Lab_01 Output SS 1](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Output/ss1.JPG)
 ![Lab_01 Output SS 2](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/ScreenShots/Output/ss2.JPG)
 ___
-## Lab: 02
+## [Lab: 02](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/Lab_02.md)
 ![Lab_02 Question SS](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/ScreenShots/Question/ss1.JPG)
 ### Code & Output ScreenShot:
 ![Lab_02 Code & Output SS 1](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/ScreenShots/Code%20%26%20Output/ss1.JPG)
 ![Lab_02 Code & Output SS 2](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/ScreenShots/Code%20%26%20Output/ss2.JPG)
 ___
-## Lab: 03
+## [Lab: 03](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/Lab_03.md)
 ![Lab_03 Question SS](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/ScreenShots/Question/ss1.JPG)
 ### Code & Output ScreenShot:
 ![Lab_03 Code & Output SS 1](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/ScreenShots/Code%20%26%20Output/ss1.JPG)
@@ -26,7 +26,7 @@ ___
 ![Lab_03 Code & Output SS 5](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/ScreenShots/Code%20%26%20Output/ss5.JPG)
 ![Lab_03 Code & Output SS 6](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/ScreenShots/Code%20%26%20Output/ss6.JPG)
 ___
-## Lab: 04
+## [Lab: 04](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_04/Lab_04.md)
 Task: 
 1.	Sort integer Array in ascending order.
 2.	Find shortest value in integer array.
