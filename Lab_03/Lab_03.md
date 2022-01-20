@@ -1,4 +1,5 @@
-## Lab: 03
+# Operating System Lab Manual | Lab_03 (Solved)
+## [Lab: 03](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/Lab_03.md)
 ![Lab_03 Question SS](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/ScreenShots/Question/ss1.JPG)
 ### Code & Output ScreenShot:
 ![Lab_03 Code & Output SS 1](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/ScreenShots/Code%20%26%20Output/ss1.JPG)
