@@ -5,7 +5,7 @@
 - ### [Lab-03](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/Lab_03.md)
 - ### [Lab-04](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_04/Lab_04.md)
 ___
-Operating System WordFile (with ScreenShots) : [OS_Lab_Manul.doxs](https://github.com/H-R-S/OS-Lab-Manual/blob/main/WordFile/HRS_Operating%20System%20Lab%20Manual%20(Solved).docx)
+Operating System Lab Manual WordFile (with ScreenShots) : [OS_Lab_Manul.doxs](https://github.com/H-R-S/OS-Lab-Manual/blob/main/WordFile/HRS_Operating%20System%20Lab%20Manual%20(Solved).docx)
 ___
 ## [Lab: 01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/Lab_01.md)
 Task: 
