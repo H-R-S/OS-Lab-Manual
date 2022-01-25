@@ -1,9 +1,9 @@
 # Operating System Lab Manual Solved
 ## Index:
-- ### [Lab-01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/Lab_01.md)
-- ### [Lab-02](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/Lab_02.md)
-- ### [Lab-03](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/Lab_03.md)
-- ### [Lab-04](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_04/Lab_04.md)
+- ### [Lab-01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/Readme/Lab_01.md)
+- ### [Lab-02](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/Readme/Lab_02.md)
+- ### [Lab-03](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/Readme/Lab_03.md)
+- ### [Lab-04](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_04/Readme/Lab_04.md)
 ___
 ## OS-Lab-Manual WordFile (with ScreenShots) : [OS_Lab_Manul.doxs](https://github.com/H-R-S/OS-Lab-Manual/blob/main/WordFile/HRS_Operating%20System%20Lab%20Manual%20(Solved).docx)
 ___
