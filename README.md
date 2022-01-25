@@ -1,5 +1,12 @@
 # Operating System Lab Manual Solved
+## Index:
+- ### [Lab-01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/Lab_01.md)
+- ### [Lab-02](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_02/Lab_02.md)
+- ### [Lab-03](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_03/Lab_03.md)
+- ### [Lab-04](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_04/Lab_04.md)
+___
 Word File : [OS_Lab_Manul.doxs](https://github.com/matiassingers/awesome-readme)
+___
 ## [Lab: 01](https://github.com/H-R-S/OS-Lab-Manual/blob/main/Lab_01/Lab_01.md)
 Task: 
 Write Linux bash Shell Script, which will ask and display all information required to Student admission in Engineering and Sciences University.
